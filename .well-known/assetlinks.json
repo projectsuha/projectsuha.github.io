@@ -1,0 +1,50 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.projectsuha.mail",
+      "sha256_cert_fingerprints": [
+        "61:7E:28:23:C3:F5:8E:27:46:AE:4E:06:34:4C:56:AA:CB:D6:48:F6:CF:B7:AE:80:E8:68:67:44:D4:BA:07:89"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.projectsuha.notlar",
+      "sha256_cert_fingerprints": [
+        "61:7E:28:23:C3:F5:8E:27:46:AE:4E:06:34:4C:56:AA:CB:D6:48:F6:CF:B7:AE:80:E8:68:67:44:D4:BA:07:89"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.projectsuha.pano",
+      "sha256_cert_fingerprints": [
+        "61:7E:28:23:C3:F5:8E:27:46:AE:4E:06:34:4C:56:AA:CB:D6:48:F6:CF:B7:AE:80:E8:68:67:44:D4:BA:07:89"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.projectsuha.yonetici",
+      "sha256_cert_fingerprints": [
+        "61:7E:28:23:C3:F5:8E:27:46:AE:4E:06:34:4C:56:AA:CB:D6:48:F6:CF:B7:AE:80:E8:68:67:44:D4:BA:07:89"
+      ]
+    }
+  }
+]
